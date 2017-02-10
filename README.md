@@ -9,6 +9,8 @@ Lightning Talk on JavaScript Maps for DCJS Meetup
 
 ![alt text](./map.png "Map")
 
+#### Note: Value in Map is RAW Value (i.e. 92 deaths per 1,000 births)
+
 ## Storytelling With Geospatial Data:
 
 - Both graphics above render the same data from: https://api.dhsprogram.com/rest/dhs/data?breakdown=subnational&indicatorIds=CM_ECMR_C_IMR&countryIds=CD&surveyIds=CD2013DHS&returnGeometry=true&f=geojson
